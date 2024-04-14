@@ -1,1 +1,1 @@
-0x0F-python-object_relational_mapping
+README file for python object relational mapping project
